@@ -1,7 +1,6 @@
 {
     "name":"qBittorrent 4.6.5",
-    "peerId":{
-        "regex":"-qB4650-zPuB?TMTptq?"
+    "peerId":"-qB4650-zPuB?TMTptq?"
     },
     "key": {
         "generator":"defaultKeyGenerator"
